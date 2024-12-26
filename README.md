@@ -27,9 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 
-**Game Development:**
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-
 **Other Tools:**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
