@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 
 **Game Development:**
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 
 **Other Tools:**
