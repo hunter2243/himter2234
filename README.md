@@ -79,28 +79,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎮 Game Projects
-- **[Project Name](#)**: A Lua-powered RPG game with dynamic environments.
-- **[Unity Adventure](#)**: An action-packed game built with Unity and C#.
-
-### 🌐 Web Applications
-- **[E-Commerce Platform](#)**: A scalable React-Node.js platform for seamless online shopping.
-- **[Personal Portfolio](#)**: My sleek and responsive personal website.
-
-### 🔧 Open Source Contributions
-- Contributed to **[Popular Repo](#)**, improving performance and usability.
-
----
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle)
@@ -112,5 +90,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 
 ---
-
-⭐️ **Thanks for visiting! Feel free to explore my repos and connect!** 🚀
