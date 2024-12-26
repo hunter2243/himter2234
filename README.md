@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 
 ## 🚀 About Me
 - 💻 **Languages:** JavaScript | C# | Lua | Python | HTML/CSS | SQL
-- 🔧 **Frameworks & Tools:** React | Node.js | .NET | Unity | Git | Docker
+- 🔧 **Frameworks & Tools:** Vue.js | Node.js | .NET | Unity | Git | Docker
 - 🎮 **Special Interests:** Game Development | Web Applications | Scripting
 - 📚 **Learning:** Exploring the depths of AI and Machine Learning
 - 🌱 **Hobbies:** Gaming 🎮 | Music 🎵 | Creative Coding ✨
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
