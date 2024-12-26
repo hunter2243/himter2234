@@ -24,33 +24,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting eleg
 **Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 
 **Other Tools:**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🌐 Connect with Me
-
-# Hi there! 👋 I'm [Your Name] 🌟
-
-Welcome to my GitHub profile! I'm a passionate developer who loves crafting elegant code and building amazing projects. Here's a little about me:
-
----
-
-## 🚀 About Me
-- 💻 **Languages:** JavaScript | C# | Lua | Python | HTML/CSS | SQL
-- 🔧 **Frameworks & Tools:** React | Node.js | .NET | Unity | Git | Docker
-- 🎮 **Special Interests:** Game Development | Web Applications | Scripting
-- 📚 **Learning:** Exploring the depths of AI and Machine Learning
-- 🌱 **Hobbies:** Gaming 🎮 | Music 🎵 | Creative Coding ✨
-
----
-
 
 ## 🌐 Connect with Me
 
